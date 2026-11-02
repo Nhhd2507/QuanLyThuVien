@@ -1,3 +1,4 @@
+// Quan ly thong tin sach cua thu vien
 public class Book {
     private String maSach;
     private String tenSach;
