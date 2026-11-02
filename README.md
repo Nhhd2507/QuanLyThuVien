@@ -1,4 +1,5 @@
 # QuanLyThuVien
+HEAD
 
 ## Giới thiệu
 QuanLyThuVien là hệ thống quản lý thư viện được xây dựng bằng Java.
@@ -12,3 +13,5 @@ QuanLyThuVien là hệ thống quản lý thư viện được xây dựng bằn
 - Java
 - Git
 - GitHub
+He thong quan ly thu vien bang Java
+9abfc1b1a7a2bc6931a128f3dd6ace185d04617f
