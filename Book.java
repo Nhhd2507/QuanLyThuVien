@@ -1,3 +1,4 @@
+// Lop Book luu tru thong tin sach
 public class Book {
     private String maSach;
     private String tenSach;
