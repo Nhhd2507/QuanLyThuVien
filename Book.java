@@ -1,4 +1,4 @@
-// Quan ly thong tin sach cua thu vien
+// Quan ly thong tin sach cua thu vien - Lop Book luu tru thong tin sach
 public class Book {
     private String maSach;
     private String tenSach;
